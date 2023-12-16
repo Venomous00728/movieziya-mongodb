@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb+srv://devlabyrinth:lFJdzQPYHQKzrnKq@moveziyamongodb.fsrua02.mongodb.net/moveziyamongodb?retryWrites=true&w=majority",
+  "port": "3900",
+  "requiresAuth": true
+}
