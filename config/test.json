@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "1234",
-  "db": "mongodb://localhost/vidly"
+  "db": "mongodb+srv://devlabyrinth:lFJdzQPYHQKzrnKq@moveziyamongodb.fsrua02.mongodb.net/moveziyamongodb?retryWrites=true&w=majority"
 }
