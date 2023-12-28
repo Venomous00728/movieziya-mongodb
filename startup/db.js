@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const config = require("config");
 
 module.exports = async function () {
-  const db = config.get("db");
+  const db = config.db;
   try {
     await mongoose.connect(db, {
       useNewUrlParser: true,
